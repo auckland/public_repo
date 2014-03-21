@@ -10,6 +10,7 @@ Sergiy Zalyubovskiy.
 ———————————————————————————————————————————— 
 
 Contents:
+
 1) ./Project1.client-server_SOAP_excahnge_reporting 
 Description: Folder contains SOAP transaction module. THE CODE IS NOT COMPLETE AS THE REST OF IT IS PRIVATE. Client-Server modules. Made on SOAP using WSO2 and wso2-wsf. RPM is compiled by Sergiy Zalyubovskiy and build for RHEL and CentOS 5.6. The environment was installed and build from a scratch.
 Zend Server and PEAR are required.
