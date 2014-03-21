@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1">
+    <header>
+        <source>CN=wsaahomo, O=AFIP, C=AR, SERIALNUMBER=CUIT 30xxxxxxxx59</source>
+        <destination>C=ar, O=banco xxxxxxxxx s.a., SERIALNUMBER=CUIT 30xxxxxxxx59, CN=banco xxxxxxxxx</destination>
+        <uniqueId>3537605045</uniqueId>
+        <generationTime>2012-04-04T13:45:47.040-03:00</generationTime>
+        <expirationTime>2012-04-05T01:45:47.040-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgdW5pcXVlX2lkPSI4MjIxNDY4MCIgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZ2VuX3RpbWU9IjEzMzM1NTc4ODciIGV4cF90aW1lPSIxMzMzNjAxMTQ3Ii8+CiAgICA8b3BlcmF0aW9uIHZhbHVlPSJncmFudGVkIiB0eXBlPSJsb2dpbiI+CiAgICAgICAgPGxvZ2luIHVpZD0iQz1hciwgTz1iYW5jbyBpbmR1c3RyaWFsIHMuYS4sIFNFUklBTE5VTUJFUj1DVUlUIDMwNjg1MDI5OTU5LCBDTj1iYW5jbyBpbmR1c3RyaWFsIiBzZXJ2aWNlPSJ3c2NvYyIgcmVnbWV0aG9kPSIyMiIgZW50aXR5PSIzMzY5MzQ1MDIzOSIgYXV0aG1ldGhvZD0iY21zIj4KICAgICAgICAgICAgPHJlbGF0aW9ucz4KICAgICAgICAgICAgICAgIDxyZWxhdGlvbiByZWx0eXBlPSI0IiBrZXk9IjMwNjg1MDI5OTU5Ii8+CiAgICAgICAgICAgIDwvcmVsYXRpb25zPgogICAgICAgIDwvbG9naW4+CiAgICA8L29wZXJhdGlvbj4KPC9zc28+Cgo=</token>
+        <sign>e+v/NQBrERJowUZuoL7+fcXpNUW/OkvBMpOpI//nhWM8/x3Ky4v8hNrKy6E84dG2AP+DoV5g2H3w9Km/2Glax/qtC7O51Okd5hSVM91X4DkqomgJ1EO6cm/hLz2NnKtJy4tl8gv8o11YCCT8SThqQ6IVmmlPptxnwa+j/aB0D2A=</sign>
+    </credentials>
+</loginTicketResponse>
+
