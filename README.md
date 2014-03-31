@@ -24,5 +24,7 @@ Description: Folder contains PHP-to-Cobol system developed to read bulk data fro
 
 5) ./email_encoder_wxpython.py - small wxPython development I did for fun and to use in office. There’s a lot of similar programs around but I’ve decided to create my own. Needs to be compiled with additional libraries. Python 2.5 + wxPython.
 
+6) ./pdf_letter_gen - Simple PHP class in combination with shell scripting to create PDF from generated on-the-fly HTML file and and it to printer. Was used to print legal letters to clients.
+
 Additional folder
 Folder “3d_examples” contains screenshots from my 3d animations. All of them are real animation movies made between 2002 and 2004. “./3d_examples/games” folder contains game models created for different game projects. One of them is the “Spartan” game (http://www.slitherine.com/games/spartan) by Slitherine Ltd (UK).
