@@ -2,6 +2,9 @@
 /**
 * Class created to encrypt and decrypt input data without use of any encryption libraries
 * Copyright - Sergio Zalyubovskiy -- 2008
+* Please Note: This version was written and tested for older PHP versions up to 5.3.9
+* Not fancy but does its job.
+* There's new encoder I have created later and it works on new versions, to be uploaded. 
 **/
 
 class SZencoder {
